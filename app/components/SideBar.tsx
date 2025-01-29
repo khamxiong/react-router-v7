@@ -5,22 +5,22 @@ const navLinks = [
   {
     id: 1,
     title: "Dashboard",
-    url: "/dashboard",
+    url: "/",
   },
   {
     id: 2,
     title: "Users",
-    url: "/dashboard/users",
+    url: "/users",
   },
   {
     id: 3,
     title: "Products",
-    url: "/dashboard/products",
+    url: "/products",
   },
   {
     id: 6,
     title: "Settings",
-    url: "/dashboard/settings",
+    url: "/settings",
   },
 ];
 const SideBar = () => {
